@@ -1,0 +1,16 @@
+C:\Users\titoc\source\repos\445AssignmentPart2\445AssignmentPart2\bin\Debug\445AssignmentPart2.exe.config
+C:\Users\titoc\source\repos\445AssignmentPart2\445AssignmentPart2\bin\Debug\445AssignmentPart2.exe
+C:\Users\titoc\source\repos\445AssignmentPart2\445AssignmentPart2\bin\Debug\445AssignmentPart2.pdb
+C:\Users\titoc\source\repos\445AssignmentPart2\445AssignmentPart2\obj\Debug\445AssignmentPart2.csproj.AssemblyReference.cache
+C:\Users\titoc\source\repos\445AssignmentPart2\445AssignmentPart2\obj\Debug\_445AssignmentPart2.Form1.resources
+C:\Users\titoc\source\repos\445AssignmentPart2\445AssignmentPart2\obj\Debug\_445AssignmentPart2.Properties.Resources.resources
+C:\Users\titoc\source\repos\445AssignmentPart2\445AssignmentPart2\obj\Debug\445AssignmentPart2.csproj.GenerateResource.cache
+C:\Users\titoc\source\repos\445AssignmentPart2\445AssignmentPart2\obj\Debug\445AssignmentPart2.csproj.CoreCompileInputs.cache
+C:\Users\titoc\source\repos\445AssignmentPart2\445AssignmentPart2\obj\Debug\445AssignmentPart2.exe
+C:\Users\titoc\source\repos\445AssignmentPart2\445AssignmentPart2\obj\Debug\445AssignmentPart2.pdb
+C:\Users\titoc\source\repos\445AssignmentPart2\445AssignmentPart2\obj\Debug\_445AssignmentPart2.Form2.resources
+C:\Users\titoc\source\repos\445AssignmentPart2\445AssignmentPart2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\titoc\source\repos\445AssignmentPart2\445AssignmentPart2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\titoc\source\repos\445AssignmentPart2\445AssignmentPart2\obj\Debug\_445AssignmentPart2.Form3.resources
+C:\Users\titoc\source\repos\445AssignmentPart2\445AssignmentPart2\obj\Debug\445AssignmentPart2.csproj.CopyComplete
+C:\Users\titoc\source\repos\445AssignmentPart2\445AssignmentPart2\obj\Debug\_445AssignmentPart2.Form4.resources
